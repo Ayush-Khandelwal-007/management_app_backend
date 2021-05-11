@@ -1,3 +1,11 @@
+## Installing Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+You will see the packages getting installed.
+
 ## Available Scripts
 
 In the project directory, you can run:
